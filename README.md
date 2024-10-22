@@ -19,7 +19,7 @@ else if(guess<number){
 printf("Greater number please\n");		
 }		
 else{		
-printf("Wooow YOU GOT IT \n YOU TOOK %d ATTEMPTS",nguesses);		
+printf("Wooow YOU GOT IT \n YOU TOOK %d ATTEMPTS",nGuesses);		
 }		
 nGuesses++;		
 }		
